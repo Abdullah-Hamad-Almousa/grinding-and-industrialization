@@ -1,0 +1,26 @@
+{
+  "type": "industrialforegoing:laser_drill_ore",
+  "catalyst": {
+    "item": "industrialforegoing:light_blue_laser_lens"
+  },
+  "output": {
+    "item": "gtceu:netherrack_blue_topaz_ore"
+  },
+  "rarity": [
+    {
+      "biome_filter": {
+        "blacklist": [],
+        "whitelist": []
+      },
+      "depth_max": 20,
+      "depth_min": 1,
+      "dimension_filter": {
+        "blacklist": [],
+        "whitelist": [
+          "minecraft:the_nether"
+        ]
+      },
+      "weight": 1
+    }
+  ]
+}
