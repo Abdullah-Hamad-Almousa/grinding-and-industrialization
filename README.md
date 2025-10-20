@@ -10,4 +10,4 @@ The modpack content more than 450 mods.
 
 Modpack
 
-+ [![Grinding and industrialization](http://cf.way2muchnoise.eu/50.svg) Grinding and industrialization] (https://www.curseforge.com/minecraft/modpacks/grinding-and-industrialization)
++ [![Grinding and industrialization](http://cf.way2muchnoise.eu/1339194.svg) Grinding and industrialization] (https://www.curseforge.com/minecraft/modpacks/grinding-and-industrialization)
